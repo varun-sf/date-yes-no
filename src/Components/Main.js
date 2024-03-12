@@ -8,7 +8,7 @@ const Main = (props)=> {
     const [buttonSize, setButtonSize] = useState(1);
     const [index,setIndex] = useState(0);
    
-    const arr=["Why, No?","Press Yes na","Please press yes","Plz Mam","You will miss a great day","You will miss a great day with Varun!!!","Pleaseeeeeee","Pleaseeeeeee","Enough madam you want to explode the screen?"]
+    const arr=["Why, No?","Press Yes na","Press yes","Plz Mam","You will miss a great day","You will miss a great day!!!","Pleaseeeeeee","Pleaseeeeeee","Enough madam you want to explode the screen?"]
     let nose =()=>{
       setButtonSize(buttonSize+1);
       if(index>8){return;}
