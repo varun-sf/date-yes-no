@@ -24,7 +24,8 @@ const Main = (props)=> {
   }
     return (
         <>
-        <h1>Would you like to go for a Movie?</h1>
+        <h1>Laveena</h1>
+        <h1>Would you like to go for a Coffee?</h1>
       <div className='container'>
       <button type="button" className="btn btn-primary mx-2" onClick={yesbro} style={{fontSize:`${buttonSize}em`}}>Yes</button>
       <button type="button" className="btn btn-primary" onClick={nose} >{buttonText}</button>
