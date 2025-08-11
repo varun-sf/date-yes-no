@@ -68,3 +68,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+"Why, No?","Press Yes na","Press yes","Plz Mam","You will miss a great day","You will miss a great day!!!","Pleaseeeeeee","Pleaseeeeeee","Enough madam you want to explode the screen?"
